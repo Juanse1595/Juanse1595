@@ -1,4 +1,4 @@
-### Hi there, I'm Juan Sebastian Perea :sunglasses: 
+<h1 align='center'>Hi there, I'm Juan Sebastian Perea :sunglasses: </h1>
 
 
 
