@@ -9,4 +9,4 @@
 - 📫 How to reach me: jspbescos15@gmail.com / https://www.linkedin.com/in/juan-sebastian-perea/
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanse1595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juanse1595&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
