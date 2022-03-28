@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning Reactjs/JavaScript/Front End Development
 - 👨‍🎓 Software Developer from Holberton School
+- 🤔 I’m looking for experience in Front End development
 - 📫 How to reach me: jspbescos15@gmail.com / https://www.linkedin.com/in/juan-sebastian-perea/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juanse1595)](https://github.com/anuraghazra/github-readme-stats)
