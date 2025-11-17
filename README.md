@@ -4,7 +4,7 @@
 <p>Make yourself at home and take a look.</p>
 
 - 👨‍💻 Working as a FullStack Developer at Aestro
-- 🌱 I’m currently studying Backend Development
+- 🌱 I’m currently studying Backend Development / Cloud computing with AWS
 - 👨‍🎓 Software Developer from Holberton School
 - 🤔 I’m looking for experience in Back End development / Fullstack development
 - 📫 How to reach me: jspbescos15@gmail.com / https://www.linkedin.com/in/juanseperea/
